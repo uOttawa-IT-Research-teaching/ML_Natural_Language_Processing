@@ -4,7 +4,7 @@ Natural language processing (NLP) is a machine learning technique to analyze lar
 
 This tutorial consists of two notebooks. The first notebooks delves into sentiment analysis using the Natural Language Tool Kit (NLTK). The second notebook focuses on classifying unlabeled data using an unsupervised machine learning algorithm. It also shows how to clean input data that optimizes the algorithm's ability to classify.
 
-Comment: Add the datasets that will be used in teh trainings and the licences
+Comment: Add info about all the datasets that will be used in the trainings and the licences
 
 | Dataset      | Source    | Licence |
 |:-------------|:----------|:--------|
