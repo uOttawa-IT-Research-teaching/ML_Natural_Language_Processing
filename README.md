@@ -2,7 +2,7 @@
 
 Natural language processing (NLP) is a machine learning technique to analyze large amounts of text to extract information. Some examples are sentiment analysis, translation, transcription, summarizing, tagging, but NLP is a very broad term and can apply to anything text related.
 
-This tutorial consists of two notebooks. The first notebooks delves into sentiment analysis using the Natural Language Toolkit (NLTK). The second notebook focuses on classifying unlabeled data using an unsupervised machine learning algorithm. It also shows how to clean input data that optimizes the algorithm's ability to classify.
+This tutorial consists of two notebooks. The first notebooks delves into sentiment analysis using the Natural Language Tool Kit (NLTK). The second notebook focuses on classifying unlabeled data using an unsupervised machine learning algorithm. It also shows how to clean input data that optimizes the algorithm's ability to classify.
 
 | Dataset      | Source    | Licence |
 |:-------------|:----------|:--------|
